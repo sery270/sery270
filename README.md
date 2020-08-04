@@ -1,16 +1,24 @@
-### Hi there 👋
+# Park Se Ran
 
-<!--
-**sery270/sery270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🎓 Seoul Women's Univ. Information Security 
 
-Here are some ideas to get you started:
+👩‍💻 **Client** Developer 📱📱📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ Worked in **SOPT 26th** Android Part
+
+---
+🔭 I’m currently working as ...
+- Android Developer for [Mongle](https://github.com/Sopt-Mongle/MongleAndroid)
+    
+🌱 I’m currently Studying ...
+- [Android Jetpack && MVVM pattern](https://github.com/sery270/sunflower_clone)
+- [Algorithm](https://github.com/sery270/Algorithm)
+
+🤔 I’m also interested in...
+- iOS Development
+---
+|**Tech Skills**|**Links**|
+|---|---|
+|✏️ Java, Kotiln, Python, C/C++, HTML, CSS ... |📧 sery270@naver.com  |
+|🛠 Visual Studio, Visual Code, Android Studio, Xcode, Pycharm, Firebase, Adobe XD, Adobe Premiere Pro, Adobe After Effects ... |📝 [https://boneup270.tistory.com/](https://boneup270.tistory.com/) |
+|👩‍👩‍👧‍👦 Git/GitHub, Slack, Notion, Zeplin, Postman ... |📊 [https://sourcerer.io/sery270](https://sourcerer.io/sery270) |
