@@ -8,7 +8,9 @@
 
 ---
 🔭 I’m currently working as ...
+- **SOPT 27th** iOS Part
 - Android Developer for [Mongle](https://github.com/Sopt-Mongle/MongleAndroid)
+- Discord Bot Developer for [ALGOALGO](https://github.com/ALGOALGO-swu/algoalgo-discord-bot)
     
 🌱 I’m currently Studying ...
 - [Android Jetpack && MVVM pattern](https://github.com/sery270/sunflower_clone)
