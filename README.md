@@ -9,7 +9,7 @@
 ---
 🔭 I’m currently working as ...
 - **SOPT 27th** iOS Part
-- Android Developer for [Mongle](https://github.com/Sopt-Mongle/MongleAndroid)
+- Android Developer for [Mongle](https://github.com/Sopt-Mongle/MongleAndroid_RELEASE)
 - Discord Bot Developer for [ALGOALGO](https://github.com/ALGOALGO-swu/algoalgo-discord-bot)
     
 🌱 I’m currently Studying ...
