@@ -6,6 +6,11 @@
 
 ✔ Worked in **SOPT 26th** Android Part
 
+
+<img src="KakaoTalk_Photo_2020-11-02-09-27-16.jpeg" alt="2-1" style="zoom:10%;" width = "200px"/> 
+
+> 벌레를 열심히 잡는편
+
 ---
 🔭 I’m currently working as ...
 - **SOPT 27th** iOS Part
