@@ -4,10 +4,14 @@
 
 👩‍💻 **Client** Developer 📱📱📱
 
-✔ Worked in **SOPT 26th** Android Part
+✔ Worked in **SOPT 26th** Android Part 
+
 ✔ Worked in **SOPT 27th** iOS Part
+
 ✔ Worked as Discord Bot Developer for [ALGOALGO](https://github.com/ALGOALGO-swu/algoalgo-discord-bot)
+
 ✔ Worked as Android Developer for [Mongle](https://github.com/Sopt-Mongle/MongleAndroid_RELEASE)
+
 ✔ Worked as iOS Developer for [BeMe](https://github.com/TeamBeMe/BeMeiOS)
 
 ---
