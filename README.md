@@ -17,10 +17,10 @@
 <h2>Projects</h2>
 
 - Android Developer - [MARU](https://github.com/bookmaru/BABONUNU) (ing)
-- Android Developer - [MARU](https://github.com/bookmaru/BABONUNU)
+- Android Developer - [EARLY-BUDDY](https://github.com/EARLY-BUDDY/EB_ANDROID) (ing)
 - Android Developer - [Mongle](https://github.com/Sopt-Mongle/MongleAndroid_RELEASE) @26th SOPT App-Jam
-- Discord Bot Developer - [ALGOALGO](https://github.com/ALGOALGO-swu/algoalgo-discord-bot)
 - iOS Developer - [BeMe](https://github.com/TeamBeMe/BeMeiOS) @27th SOPT App-Jam
+- Discord Bot Developer - [ALGOALGO](https://github.com/ALGOALGO-swu/algoalgo-discord-bot)
 
 
 <h2>Activities</h2>
@@ -28,7 +28,7 @@
 - 26th SOPT Android Development
 - 27th SOPT iOS Development
 - 「Programming Guru」 Android Adviser
-- 여기어때컴퍼니 정보보안실 Intern
+- 여기어때컴퍼니 정보보안실 Intern (Web, BE) 
 
 
 <h2>Studying ...</h2>
@@ -39,7 +39,7 @@
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=sery270" width=300/>
   
 <p align="right">
-  <img src="https://img.shields.io/badge/Kotlin-F18E33?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
