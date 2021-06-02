@@ -14,43 +14,36 @@
 </p>
 <br>
 
+<h2>Projects</h2>
 
-✔ Worked in **SOPT 26th** Android Part, **SOPT 27th** iOS Part
-
-✔ Worked as Discord Bot Developer for [ALGOALGO](https://github.com/ALGOALGO-swu/algoalgo-discord-bot)
-
-✔ Worked as Android Developer for [Mongle](https://github.com/Sopt-Mongle/MongleAndroid_RELEASE)
-
-✔ Worked as iOS Developer for [BeMe](https://github.com/TeamBeMe/BeMeiOS)
-
----
-🔭 I’m currently working as ...
-- Android Developer for [MARU](https://github.com/bookmaru/BABONUNU)⭐️⭐️⭐️⭐️⭐️
-- Android Developer for [MARU](https://github.com/bookmaru/BABONUNU)⭐️⭐️⭐️⭐️⭐️
-    
-🌱 I’m currently Studying ...
-- [Android 플랫폼의 주요 구성요소](https://github.com/sery270/android-fw-samples)
-- [Algorithm](https://github.com/sery270/Algorithm)
-
-🤔 I’m also interested in...
-- coroutine, flow 
----
-
-<img src="KakaoTalk_Photo_2020-11-02-09-27-16.jpeg" alt="2-1" style="zoom:10%;" width = "200px"/> [![sery270](http://mazassumnida.wtf/api/generate_badge?boj=sery270)](https://solved.ac/sery270)
-
-> 버그 잡기 ! 
+- Android Developer - [MARU](https://github.com/bookmaru/BABONUNU) (ing)
+- Android Developer - [MARU](https://github.com/bookmaru/BABONUNU)
+- Android Developer - [Mongle](https://github.com/Sopt-Mongle/MongleAndroid_RELEASE) @26th SOPT App-Jam
+- Discord Bot Developer - [ALGOALGO](https://github.com/ALGOALGO-swu/algoalgo-discord-bot)
+- iOS Developer - [BeMe](https://github.com/TeamBeMe/BeMeiOS) @27th SOPT App-Jam
 
 
+<h2>Activities</h2>
+
+- 26th SOPT Android Development
+- 27th SOPT iOS Development
+- 「Programming Guru」 Android Adviser
+- 여기어때컴퍼니 정보보안실 Intern
 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+<h2>Studying ...</h2>
+
+- [Android FW](https://github.com/sery270/android-fw-samples)
+- [Algorithm](https://github.com/sery270/Algorithm) 
+
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=sery270" width=300/>
+  
+<p align="right">
+  <img src="https://img.shields.io/badge/Kotlin-F18E33?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Swift-ffac45?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"/>
 </p>
-
-
-
