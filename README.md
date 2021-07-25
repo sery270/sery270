@@ -28,7 +28,8 @@
 - 26th SOPT Android Development
 - 27th SOPT iOS Development
 - 「Programming Guru」 Android Adviser
-- 여기어때컴퍼니 정보보안실 Intern (Web, BE) 
+- 여기어때컴퍼니 정보보안실 Intern 
+- 데브시스터즈 Android Developer 
 
 
 <h2>Studying ...</h2>
