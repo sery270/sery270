@@ -5,7 +5,7 @@
   <a href="https://velog.io/@sery270" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/Park-Seran-936ab59278b8494fb3ea35453eaf72be" target="_blank">
+  <a href="https://honey-flax-b57.notion.site/Android-10ce4d4589b340a69f97409f2acaeba9" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <a href="mailto:sery270@gmail.com" target="_blank">
