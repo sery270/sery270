@@ -20,16 +20,15 @@
 - Android Developer - [EARLY-BUDDY](https://github.com/EARLY-BUDDY/EB_ANDROID) (ing)
 - Android Developer - [Mongle](https://github.com/Sopt-Mongle/MongleAndroid_RELEASE) @26th SOPT App-Jam
 - iOS Developer - [BeMe](https://github.com/TeamBeMe/BeMeiOS) @27th SOPT App-Jam
-- Discord Bot Developer - [ALGOALGO](https://github.com/ALGOALGO-swu/algoalgo-discord-bot)
 
 
 <h2>Activities</h2>
 
+- 데브시스터즈 Android Developer 
+- 여기어때컴퍼니 정보보안실 Intern 
 - 26th SOPT Android Development
 - 27th SOPT iOS Development
 - 「Programming Guru」 Android Adviser
-- 여기어때컴퍼니 정보보안실 Intern 
-- 데브시스터즈 Android Developer 
 
 
 <h2>Studying ...</h2>
