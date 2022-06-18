@@ -29,14 +29,6 @@
 - 26th SOPT Android Development
 - 27th SOPT iOS Development
 - 「Programming Guru」 Android Adviser
-
-
-<h2>Studying ...</h2>
-
-- [Android FW](https://github.com/sery270/android-fw-samples)
-- [Algorithm](https://github.com/sery270/Algorithm) 
-
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=sery270" width=300/>
   
 <p align="right">
   <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
